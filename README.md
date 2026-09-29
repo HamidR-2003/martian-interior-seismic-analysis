@@ -1,6 +1,5 @@
 # martian-interior-seismic-analysis
 Seismic analysis of Mars' interior using NASA InSight data, machine learning, and 3D simulation. Confirms liquid core via P/S wave shadow zones and PINN-based modeling
-# Martian Core Analysis
 
 This repository contains all notebooks that perform various data analyses and computational tasks for the analysis of the Martian Core and Seismic data. Each notebook is focused on a specific topic or methodology. Below is a summary of the actions performed and the analysis conducted in each notebook. 
 
